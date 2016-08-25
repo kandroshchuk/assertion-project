@@ -1,6 +1,6 @@
-#Basic Project
+#Assertion Project
 
-*Simple Java Project*
+*Assertion Java Project*
 
 **Java 7
 
